@@ -1,0 +1,15 @@
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\bin\Debug\netstandard2.0\Graficas.deps.json
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\bin\Debug\netstandard2.0\Graficas.dll
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\bin\Debug\netstandard2.0\ref\Graficas.dll
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\bin\Debug\netstandard2.0\Graficas.pdb
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\Graficas.csproj.AssemblyReference.cache
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\Graficas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\Graficas.AssemblyInfoInputs.cache
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\Graficas.AssemblyInfo.cs
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\Graficas.csproj.CoreCompileInputs.cache
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\Graficas.dll
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\ref\Graficas.dll
+C:\Users\clever\source\repos\Graficas\Graficas\Graficas\obj\Debug\netstandard2.0\Graficas.pdb
