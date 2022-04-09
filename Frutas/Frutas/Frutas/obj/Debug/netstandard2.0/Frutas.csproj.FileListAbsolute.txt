@@ -1,0 +1,15 @@
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\Frutas.csproj.AssemblyReference.cache
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\Frutas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\Frutas.AssemblyInfoInputs.cache
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\Frutas.AssemblyInfo.cs
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\Frutas.csproj.CoreCompileInputs.cache
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\Frutas.dll
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\ref\Frutas.dll
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\Frutas.pdb
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\bin\Debug\netstandard2.0\Frutas.deps.json
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\bin\Debug\netstandard2.0\Frutas.dll
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\bin\Debug\netstandard2.0\ref\Frutas.dll
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\bin\Debug\netstandard2.0\Frutas.pdb
+C:\Users\clever\source\repos\Frutas\Frutas\Frutas\obj\Debug\netstandard2.0\XamlC.stamp
