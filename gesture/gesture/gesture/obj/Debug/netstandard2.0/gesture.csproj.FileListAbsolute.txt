@@ -1,0 +1,16 @@
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\bin\Debug\netstandard2.0\gesture.deps.json
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\bin\Debug\netstandard2.0\gesture.dll
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\bin\Debug\netstandard2.0\ref\gesture.dll
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\bin\Debug\netstandard2.0\gesture.pdb
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\gesture.csproj.AssemblyReference.cache
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\gesture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\gesture.AssemblyInfoInputs.cache
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\gesture.AssemblyInfo.cs
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\gesture.csproj.CoreCompileInputs.cache
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\gesture.dll
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\ref\gesture.dll
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\gesture.pdb
+C:\Users\clever\Desktop\xamarin\gesture\gesture\gesture\obj\Debug\netstandard2.0\Page1.xaml.g.cs
